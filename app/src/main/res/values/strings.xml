@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hemal Practical</string>
+    <string name="add_items">Add Items</string>
+    <string name="save">SAVE</string>
+    <string name="add_invoice">ADD INVOICE</string>
+    <string name="invoices">Invoices</string>
+</resources>
